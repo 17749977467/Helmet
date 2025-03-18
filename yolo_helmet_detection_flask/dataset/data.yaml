@@ -1,0 +1,8 @@
+train: D:/Code/Project/yolo_targetDetection/yolo_train/helmet_dataset/images/train
+val: D:/Code/Project/yolo_targetDetection/yolo_train/helmet_dataset/images/val
+
+nc: 2
+names:
+  0: helmet
+  1: without helmet
+    
